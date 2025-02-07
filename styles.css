@@ -12,6 +12,12 @@ display: flex;
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
+  width: 100vw;
+  height: 10vh;
+}
+#logo {
+  height: 80px;
+  width: 80px;
 }
 nav {
   list-decoration: none;
